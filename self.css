@@ -1,0 +1,23 @@
+body{
+color:blue;
+background-color:#A0FFDB;
+border:12px solid red;
+font:big;
+}
+
+#essy{color:brown;}
+bee{color:violet;}
+
+
+p{color:green;
+font:normal;}
+
+table{background-color:orange;
+font:small;
+color:black;
+}
+
+
+h1,h2,h3,h4{font:bold;
+color:red;
+}
